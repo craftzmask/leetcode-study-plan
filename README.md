@@ -11,7 +11,7 @@
 - [x] [Contains Duplicate](./week01/array/recommended/contains_duplicate.py)
 - [x] [Maximum Product Subarray](./week01/array/recommended/maximum_product_subarray.py)
 - [x] [Search in Rotated Sorted Array](./week01/array/recommended/search_in_rotated_sorted_array.py)
-- [ ] 3Sum
+- [x] [3Sum](./week01/array/recommended/3sum.py)
 - [x] [Container With Most Water](./week01/array/recommended/container_with_most_water.py)
 - [ ] Sliding Window Maximum
 
