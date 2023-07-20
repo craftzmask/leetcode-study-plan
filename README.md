@@ -26,5 +26,5 @@
 - [x] [Find All Anagrams in a String](./week01/string/recommended/find_all_anagrams_in_a_string.py)
 - [ ] Minimum Window Substring
 - [ ] Group Anagrams
-- [ ] Longest Palindromic Substring
+- [x] [Longest Palindromic Substring](./week01/string/recommended/longest_palindromic_substring.py)
 - [ ] Encode and Decode Strings (LeetCode Premium)
